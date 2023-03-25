@@ -1,9 +1,15 @@
 import { withProvider } from '~src/app/providers'
 
+import { Pages } from '~src/pages'
+
 import './index.scss'
 
 function App() {
-	return <main>App</main>
+	return (
+		<>
+			<Pages />
+		</>
+	)
 }
 
 export default withProvider(App)
