@@ -1,5 +1,5 @@
 export const paths = {
-	landing: '/landing',
+	landing: '/about',
 }
 
 export const routes = {
