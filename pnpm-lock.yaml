@@ -3,6 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@ant-design/icons': ^5.0.1
   '@trivago/prettier-plugin-sort-imports': ^4.1.1
+  '@types/compose-function': ^0.0.30
   '@types/node': ^18.15.5
   '@types/react': ^18.0.28
   '@types/react-dom': ^18.0.11
@@ -54,6 +55,7 @@ dependencies:
 
 devDependencies:
   '@trivago/prettier-plugin-sort-imports': 4.1.1_prettier@2.8.7
+  '@types/compose-function': 0.0.30
   '@types/node': 18.15.9
   '@types/react': 18.0.29
   '@types/react-dom': 18.0.11
@@ -2015,6 +2017,10 @@ packages:
       prettier: 2.8.7
     transitivePeerDependencies:
       - supports-color
+    dev: true
+
+  /@types/compose-function/0.0.30:
+    resolution: {integrity: sha512-TY6zsIzbLU9nsRMVwaq5hYNSoglao3ZOm2I4jAi1EojDZJdF8vtDqBG+f086WJ17pwRH4sQseXp/U6GVxUxHwA==}
     dev: true
 
   /@types/estree/0.0.39:
