@@ -22,8 +22,14 @@ Install package.json
 npm install
 ```
 
-Run developer
+Debug Project
 
 ```
 npm run dev
+```
+
+Build Project
+
+```
+npm run build
 ```
